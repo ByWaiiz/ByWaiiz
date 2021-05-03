@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ByWaiiz
-- 🌱 I’m currently learning : Lua, JS, 
+- 🌱 I’m currently learning Lua and JS
 
